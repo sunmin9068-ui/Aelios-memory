@@ -463,3 +463,4 @@ AGPL-3.0
 
 有问题、想交流，欢迎来 QQ 群：**1091783659**
 trigger rebuild
+trigger rebuild
